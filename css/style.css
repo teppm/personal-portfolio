@@ -1,0 +1,25 @@
+/*---------------------------------colors*/
+.header, .footer, .social-links {
+    background-color: #898B8C;
+    color: #DBD5BF;
+
+}
+
+
+
+/*---------------------------------header*/
+
+.header {
+   font-family: "Karla", sans-serif;   
+   text-align: center;
+}
+
+
+
+/*---------------------------------footer*/
+
+.footer {
+     font-family: "Karla", sans-serif;
+     text-align: center;
+  }
+

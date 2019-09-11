@@ -50,3 +50,19 @@ a:hover {
     
 }
 
+
+
+/*--------------------------------------list*/
+
+li {
+    padding-left: 150px;
+    list-style-type: none;
+    float: left;
+}
+
+ul {
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}

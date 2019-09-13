@@ -1,10 +1,11 @@
+
 /*----------------------------body*/
 
 body {
-    background-image: url("../assets/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg");
+    background-image: url("../assets/images/rayi-christian-wicaksono-6PF6DaiWz48-unsplash.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
     background-color: black;
+    background-size: 100%;
     
 }
 
@@ -20,7 +21,6 @@ body {
 /*---------------------------------navbar*/
 
 .navbar {
-    color: #FAF5F7;
     font-family: "Karla", sans-serif;
     text-align: center;
     text-transform: uppercase;
@@ -43,11 +43,6 @@ body {
     bottom: 0;
 }
 
-.social-links {
-     transition: all;
-     transition-duration: 0.5s;
-    
-}
 
 
 
@@ -57,7 +52,7 @@ a {
     transition-property: all;
     transition-duration: 0.2s;
     font-weight: bolder;
-    color: #DBD5BF;
+    color: #E6FFFB;
 }
 
 a:hover {
@@ -67,7 +62,8 @@ a:hover {
 
 
 .social-links {
-    font-size: large;
+     color: #292E2D;
+     font-size: large;
      transition: all;
      transition-timing-function: ease-in-out;
      transition-duration: 0.2s;
@@ -118,3 +114,5 @@ ul {
 p {
     margin-top: 25px;
 }
+
+

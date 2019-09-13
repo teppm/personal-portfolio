@@ -1,14 +1,5 @@
 /*----------------------------body*/
 
-.bg {
-    background-image: url("/assets/images/fabian-grohs-7U-67_T_J34-unsplash.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-}
-
 /*-----------------------------container-fluid*/
 
 .container-fluid {
@@ -45,11 +36,13 @@
     bottom: 0;
 }
 
+.tooltip .tooltip-text .facebook:hover {}
 
 
 /*-----------------------------------links*/
 
 a {
+    transition-property: all;
     color: #DBD5BF;
 }
 
@@ -104,6 +97,5 @@ p {
     margin-top: 25px;
 }
 
-h3 {
-    letter-spacing: !important;
-}
+
+/*------------------------------------------jumbotron*/

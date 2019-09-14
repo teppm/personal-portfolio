@@ -1,12 +1,14 @@
-/*----------------------------body*/
+/*----------------------------html*/
 
-body {
+html {
     background-image: url("../assets/images/rayi-christian-wicaksono-6PF6DaiWz48-unsplash.jpg");
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
-    min-height: inherit;
-    
+  
 
 }
 
@@ -53,6 +55,7 @@ a {
     transition-duration: 0.2s;
     font-weight: bolder;
     color: #E6FFFB;
+
 }
 
 a:hover {
@@ -67,7 +70,7 @@ a:hover {
     transition: all;
     transition-timing-function: ease-in-out;
     transition-duration: 0.2s;
-
+    
 }
 
 .social-links:hover {
@@ -116,5 +119,10 @@ p {
 }
 
 
+/*----------------------------------------------container*/
 
+.container {
+    margin: 0px;
+    padding: 0px;
+}
 

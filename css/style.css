@@ -40,13 +40,20 @@ html {
 
 
 
-.bg-light {
-    opacity: 0.3;
+.navbar-light .navbar-nav .nav-link {
+    color: #DDE2E7;
+}
 
+.navbar-light .navbar-nav .nav-link:hover {
+     color: #960A03;   
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #DDE2E7;
 }
 
 .navbar-light>.navbar-brand {
-    color: #0A1414;
+    color: #DDE2E7;
     font-size: large;
     transition: all;
     transition-timing-function: ease-in-out;
@@ -109,19 +116,6 @@ ul {
 
 /*-------------------------------------------intro-text*/
 
-.intro-text {
-    margin-top: 300px;
-    margin-left: 150px;
-    font-family: "Karla", sans-serif;
-    font-weight: 800;
-    font-size: large;
-    letter-spacing: 3px;
-    color: #DBD5BF;
-}
-
-p {
-    margin-top: 25px;
-}
 
 
 /*----------------------------------------------container*/

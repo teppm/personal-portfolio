@@ -8,7 +8,7 @@ html {
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
-  
+
 
 }
 
@@ -30,10 +30,27 @@ html {
     position: absolute;
     width: 100%;
     top: 0;
+    padding: 0px;
+    transition-property: all;
+    transition-duration: 0.2s;
+    font-weight: bolder;
+    color: #E6FFFB;
+
 }
 
 
-/*------------------------------------------jumbotron*/
+
+.nav-link {
+    transition-property: all;
+    transition-duration: 0.2s;
+    font-weight: bolder;
+    color: #E6FFFB;
+}
+
+.bg-light:hover {
+    color: #960A03;
+    text-decoration: none;
+}
 
 /*---------------------------------footer*/
 
@@ -42,26 +59,14 @@ html {
     text-align: center;
     position: absolute;
     width: 100%;
-    bottom: 0;
+    bottom: 0px;
 }
+
 
 
 
 
 /*-----------------------------------links*/
-
-a {
-    transition-property: all;
-    transition-duration: 0.2s;
-    font-weight: bolder;
-    color: #E6FFFB;
-
-}
-
-a:hover {
-    color: #960A03;
-    text-decoration: none;
-}
 
 
 .social-links {
@@ -70,11 +75,12 @@ a:hover {
     transition: all;
     transition-timing-function: ease-in-out;
     transition-duration: 0.2s;
-    
+
 }
 
 .social-links:hover {
     color: #960A03;
+    text-decoration: none;
 
 }
 
@@ -125,4 +131,3 @@ p {
     margin: 0px;
     padding: 0px;
 }
-

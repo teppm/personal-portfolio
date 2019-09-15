@@ -40,16 +40,21 @@ html {
 
 
 
-.nav-link {
-    transition-property: all;
-    transition-duration: 0.2s;
-    font-weight: bolder;
-    color: #E6FFFB;
+.bg-light {
+    opacity: 0.3;
+
 }
 
-.bg-light:hover {
+.navbar-light>.navbar-brand {
+    color: #0A1414;
+    font-size: large;
+    transition: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.2s;
+}
+
+.navbar-light>.navbar-brand:hover {
     color: #960A03;
-    text-decoration: none;
 }
 
 /*---------------------------------footer*/
@@ -61,12 +66,6 @@ html {
     width: 100%;
     bottom: 0px;
 }
-
-
-
-
-
-/*-----------------------------------links*/
 
 
 .social-links {

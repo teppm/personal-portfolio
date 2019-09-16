@@ -126,7 +126,7 @@ ul {
 
 /*----------------------------------------------media query--*/
 
-@media (max-width:768px) {
+@media (max-width:1000px) {
     li {
         padding-left: 35px;
     }

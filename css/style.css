@@ -8,7 +8,6 @@ html {
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
-    overflow: scroll;
 
 
 }
@@ -17,6 +16,7 @@ html {
 
 body {
     background-color: transparent;
+    overflow-y: scroll;
 }
 
 
@@ -56,8 +56,16 @@ body {
 
 /*----------------------------------index.html page content*/
 
+.index-text-style {
+    color: #EA1201;
+    text-align: center;
+}
+
 .intro-image {
-   
+    bottom: 50%;
+    position: relative;
+
+
 }
 
 /*---------------------------------footer*/
@@ -124,7 +132,7 @@ ul {
 /*------------------------------------------container*/
 
 .container {
-    
+
     margin-top: 50px;
 
 }
@@ -139,3 +147,5 @@ ul {
     }
 
 }
+
+

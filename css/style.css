@@ -67,10 +67,36 @@ body {
 
 /*--------------------------------------about.html page content*/
 
-.about .about-image .skill 
+.about {
+    background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    
+    
+    
+}
+
+.about-image { 
+     background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    
+}
+
+.skills {
+     background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    
+}
 
 .work-history {
-    margin-bottom: 0px;
+     background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    font-size: medium;
+    
+}
+
+.about-me-p {
+    margin: 0px;
+    font-size: small;
 }
 
 /*---------------------------------footer*/
@@ -95,7 +121,6 @@ body {
 .footer {
     font-family: "Karla", sans-serif;
     text-align: center;
-    position: fixed;
     bottom: 0px;
     background-color: #343a40;
     

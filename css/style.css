@@ -52,6 +52,10 @@ body {
     color: #1319EB;
 }
 
+.nav-link {
+    margin: 0px 50px 0px 50px;
+}
+
 
 /*----------------------------------index.html page content*/
 
@@ -63,7 +67,11 @@ body {
 
 /*--------------------------------------about.html page content*/
 
+.about .about-image .skill 
 
+.work-history {
+    margin-bottom: 0px;
+}
 
 /*---------------------------------footer*/
 
@@ -72,6 +80,7 @@ body {
     font-size: large;
     transition: all;
     transition-timing-function: ease-in-out;
+    margin: 15px 50px 15px 50px;
 
 
 }
@@ -79,6 +88,7 @@ body {
 .social-links:hover {
     color: #960A03;
     text-decoration: none;
+  
 
 }
 
@@ -95,18 +105,10 @@ body {
 /*--------------------------------------list*/
 
 li {
-    padding-left: 100px;
     list-style-type: none;
-    float: left;
 }
 
 
-ul {
-    text-align: center;
-    display: inline-block;
-    margin-top: 0;
-    padding: 0;
-}
 
 
 
@@ -140,9 +142,9 @@ ul {
 
 /*----------------------------------------------media query--*/
 
-@media (max-width:1000px) {
-    li {
-        padding-left: 35px;
+@media (max-width:767px) {
+    .social-links {
+        margin: 15px;
     }
 
 }

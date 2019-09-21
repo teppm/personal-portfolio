@@ -7,7 +7,7 @@ html {
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
-    overflow-y: scroll;
+    overflow-y: auto;
 
 
 }
@@ -70,33 +70,44 @@ body {
 .about {
     background-color: #91918E;
     border: 15px solid #7D7D7A;
+    padding-bottom: 25px;
     
     
     
 }
 
 .about-image { 
-     background-color: #91918E;
+    background-color: #91918E;
     border: 15px solid #7D7D7A;
+    padding-bottom: 25px;
     
 }
 
 .skills {
      background-color: #91918E;
     border: 15px solid #7D7D7A;
+    padding-bottom: 25px;
     
 }
 
 .work-history {
-     background-color: #91918E;
+    background-color: #91918E;
     border: 15px solid #7D7D7A;
-    font-size: medium;
-    
+    padding-bottom: 25px;
 }
 
 .about-me-p {
     margin: 0px;
     font-size: small;
+    color: #EA1201;
+}
+
+.progress { 
+    background-color: #5e6164;
+}
+
+.progress-bar {
+    background-color: #000000;
 }
 
 /*---------------------------------footer*/

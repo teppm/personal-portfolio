@@ -160,6 +160,13 @@ h4 {
     
 }
 
+.contact-p { 
+    background-color: #91918E;
+    text-align: center;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
 /*---------------------------------footer*/
 
 .social-links {

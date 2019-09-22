@@ -151,6 +151,15 @@ h4 {
     color: #E8E0C8;
 }
 
+/*---------------------------------contact page content*/
+
+.contact-page-style { 
+    background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    opacity: 0.8;
+    
+}
+
 /*---------------------------------footer*/
 
 .social-links {

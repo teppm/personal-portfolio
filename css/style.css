@@ -70,12 +70,14 @@ body {
 
 /*--------------------------------------about.html page content*/
 
-.about {
+.about,
+.skills,
+.work-history {
     background-color: #91918E;
     border: 15px solid #7D7D7A;
     padding-bottom: 25px;
     padding-top: 25px;
-    opacity: 0.9;
+    opacity: 0.8;
 
 
 
@@ -94,23 +96,7 @@ body {
     padding-right: 0px;
 }
 
-.skills {
-    background-color: #91918E;
-    border: 15px solid #7D7D7A;
-    padding-bottom: 25px;
-    padding-top: 25px;
-    opacity: 0.9;
 
-
-}
-
-.work-history {
-    background-color: #91918E;
-    border: 15px solid #7D7D7A;
-    padding-bottom: 25px;
-    padding-top: 25px;
-    opacity: 0.9;
-}
 
 .work-history-style {
     padding-left: 0px;
@@ -208,5 +194,10 @@ li {
     .social-links {
         margin: 15px;
     }
+    
+    .col-xs-12 {
+        margin: 25px 0px 25px 0px;
+    }
 
 }
+

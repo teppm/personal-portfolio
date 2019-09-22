@@ -128,7 +128,6 @@ h4 {
     border: 15px solid #7D7D7A;
     opacity: 0.8;
     font-size: small;
-    text-align: left;
     padding-bottom: 70px;
     
 
@@ -144,6 +143,12 @@ h4 {
 .portfolio-image {
     width: 100%;
     height: 100%;
+    padding-bottom: 35px;
+}
+
+.portfolio-heading { 
+    margin-bottom: 50px;
+    color: #E8E0C8;
 }
 
 /*---------------------------------footer*/

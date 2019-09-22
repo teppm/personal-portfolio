@@ -167,6 +167,12 @@ h4 {
     opacity: 0.8;
 }
 
+.btn {
+    background-color: #91918E;
+    border: 15px solid green;
+    color: black;
+}
+
 /*---------------------------------footer*/
 
 .social-links {

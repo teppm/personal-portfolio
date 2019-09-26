@@ -1,0 +1,289 @@
+/*----------------------------html*/
+
+html {
+    background-image: url("../images/rayi-christian-wicaksono-6PF6DaiWz48-unsplash.jpg");
+    min-height: 100%;
+    min-width: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+    overflow-y: auto;
+
+
+}
+
+/*---------------------------------body*/
+
+body {
+
+    background-color: transparent;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+
+/*---------------------------------navbar*/
+
+.navbar {
+    font-family: "Karla", sans-serif;
+    padding: 0px;
+    font-weight: bolder;
+    color: #E6FFFB;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #EA1201;
+    font-weight: normal;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #960A03;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #EA1201;
+    font-weight: bolder;
+
+}
+
+.navbar-dark>.navbar-brand {
+    background-color: #00002B;
+    margin-right: 50px;
+    padding-right: 50px;
+    color: #1319EB;
+}
+
+.nav-link {
+    margin: 0px 50px 0px 50px;
+}
+
+
+
+/*----------------------------------index.html page content*/
+
+.index-text-style {
+    color: #EA1201;
+    text-align: center;
+}
+
+
+
+
+/*--------------------------------------about.html page content*/
+
+.about,
+.skills,
+.work-history {
+    background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    opacity: 0.8;
+
+
+
+}
+
+.about-image {
+    width: 100%;
+    height: 100%;
+    border: 15px solid #7D7D7A;
+
+
+}
+
+.about-image-container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+.work-history-style {
+    padding-left: 0px;
+}
+
+.about-me-p {
+    margin: 0px;
+    font-size: small;
+    text-align: left;
+
+}
+
+.progress {
+    background-color: #5e6164;
+}
+
+.progress-bar {
+    background-color: #000000;
+}
+
+h4 {
+    text-decoration-line: underline;
+}
+
+/*---------------------------------portfolio page content*/
+
+.works-done {
+    background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    opacity: 0.8;
+    font-size: small;
+    padding-bottom: 70px;
+    
+
+}
+
+.portfolio-p { 
+        margin-top: 15px; 
+        text-align: center;
+        font-weight: bold;
+    
+}
+
+.portfolio-image {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 35px;
+}
+
+.portfolio-heading { 
+    margin-bottom: 50px;
+    color: #E8E0C8;
+}
+
+/*---------------------------------contact page content*/
+
+.contact-page-style { 
+    background-color: #91918E;
+    border: 15px solid #7D7D7A;
+    opacity: 0.8;
+
+    
+}
+
+.contact-p { 
+    background-color: #91918E;
+    text-align: center;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+
+.btn {
+    background-color: black;
+    border: 15px black;
+    color: white;
+    margin: 10px;
+}
+
+.btn:hover {
+    color: #960A03;
+    background-color: black;
+} 
+
+.contact-details {
+    background-color: white;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.download-resume { 
+    color: white;
+    font-size: larger;
+    background-color: black;
+    width: 100%;
+    
+    
+}    
+
+.download-resume:hover {
+    text-decoration: none;
+    color: #960A03;
+}
+
+
+    
+/*---------------------------------footer*/
+
+.social-links {
+    color: #EA1201;
+    font-size: large;
+    transition: all;
+    transition-timing-function: ease-in-out;
+    margin: 15px 50px 15px 50px;
+
+
+}
+
+.social-links:hover {
+    color: #960A03;
+    text-decoration: none;
+
+
+}
+
+.footer {
+    font-family: "Karla", sans-serif;
+    text-align: center;
+    bottom: 0px;
+    background-color: #343a40;
+
+}
+
+
+/*--------------------------------------list*/
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
+
+
+
+
+/*--------------------------------------img-fluid*/
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+/*------------------------------------------container*/
+
+.container {
+
+    margin-top: 50px;
+
+}
+
+
+
+/*----------------------------------------------media query--*/
+
+@media (max-width:767px) {
+    .social-links {
+        margin: 15px;
+    }
+
+}
+
+@media (max-width:1024px) {
+    .works-done {
+        padding-bottom: 100px;
+        
+    }
+    
+    .contact-details-style { 
+        margin-left: 15px;
+        margin-right: 15px;
+        
+    }
+}

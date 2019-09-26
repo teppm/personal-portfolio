@@ -124,6 +124,11 @@ h4 {
     text-decoration-line: underline;
 }
 
+.font-weight-bolder {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
 /*---------------------------------portfolio page content*/
 
 .works-done {

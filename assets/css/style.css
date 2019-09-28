@@ -80,7 +80,8 @@ body {
 }
 
 .embed-responsive {
-    width: 50%;
+    width: 70%;
+    opacity: 0.9;
 }
 
 
@@ -319,6 +320,6 @@ li {
     }
     
     .embed-responsive {
-        width:80%;
+        width: 90%;
     }
 }

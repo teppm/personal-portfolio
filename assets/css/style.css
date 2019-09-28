@@ -2,12 +2,11 @@
 
 html {
     background-image: url("../images/rayi-christian-wicaksono-6PF6DaiWz48-unsplash.jpg");
-    min-height: 100%;
-    min-width: 100%;
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
     overflow-y: auto;
+    background-position: center;
 
 
 }
@@ -15,7 +14,7 @@ html {
 /*---------------------------------body*/
 
 body {
-
+    
     background-color: transparent;
     padding-bottom: 60px;
     padding-top: 60px;
@@ -28,13 +27,13 @@ body {
     font-family: "Karla", sans-serif;
     padding: 0px;
     font-weight: bolder;
-    color: #E6FFFB;
+    color: #FEF6EA;
 }
 
 
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #EA1201;
+    color: #FEF6EA;
     font-weight: normal;
 }
 
@@ -43,8 +42,9 @@ body {
 }
 
 .navbar-dark .navbar-nav .active>.nav-link {
-    color: #EA1201;
+    color: #FEF6EA;
     font-weight: bolder;
+    text-decoration: underline;
 
 }
 
@@ -64,7 +64,7 @@ body {
 /*----------------------------------index.html page content*/
 
 .index-text-style {
-    color: #EA1201;
+    color: #FEF6EA;
     text-align: center;
 }
 
@@ -81,6 +81,9 @@ body {
     padding-bottom: 25px;
     padding-top: 25px;
     opacity: 0.8;
+    margin: 0px 15px 0px 15px;
+    color: #FEF6EA;
+
 
 
 
@@ -92,11 +95,14 @@ body {
     border: 15px solid #7D7D7A;
 
 
+
 }
 
 .about-image-container {
     padding-left: 0px;
     padding-right: 0px;
+    margin: 0px 15px 0px 15px;
+
 }
 
 
@@ -109,6 +115,7 @@ body {
     margin: 0px;
     font-size: small;
     text-align: left;
+    color: #FEF6EA;
 
 }
 
@@ -121,7 +128,7 @@ body {
 }
 
 h4 {
-    text-decoration-line: underline;
+    text-decoration: underline;
 }
 
 /*---------------------------------portfolio page content*/
@@ -132,15 +139,16 @@ h4 {
     opacity: 0.8;
     font-size: small;
     padding-bottom: 70px;
-    
+    margin: 0px 15px 0px 15px;
+
 
 }
 
-.portfolio-p { 
-        margin-top: 15px; 
-        text-align: center;
-        font-weight: bold;
-    
+.portfolio-p {
+    margin-top: 15px;
+    text-align: center;
+    font-weight: bold;
+
 }
 
 .portfolio-image {
@@ -149,40 +157,41 @@ h4 {
     padding-bottom: 35px;
 }
 
-.portfolio-heading { 
+.portfolio-heading {
     margin-bottom: 50px;
-    color: #E8E0C8;
+    color: #FEF6EA;
 }
 
 /*---------------------------------contact page content*/
 
-.contact-page-style { 
+.contact-page-style {
     background-color: #91918E;
     border: 15px solid #7D7D7A;
     opacity: 0.8;
 
-    
+
 }
 
-.contact-p { 
+.contact-p {
     background-color: #91918E;
     text-align: center;
     font-weight: bold;
     opacity: 0.8;
+    color: #FEF6EA;
 }
 
 
 .btn {
     background-color: black;
     border: 15px black;
-    color: white;
+    color: #FEF6EA;
     margin: 10px;
 }
 
 .btn:hover {
     color: #960A03;
     background-color: black;
-} 
+}
 
 .contact-details {
     background-color: white;
@@ -191,30 +200,30 @@ h4 {
     text-align: center;
 }
 
-.download-resume { 
-    color: white;
+.download-resume {
+    color: #FEF6EA;
     font-size: larger;
     background-color: black;
     width: 100%;
-    
-    
-}    
+
+
+}
 
 .download-resume:hover {
     text-decoration: none;
     color: #960A03;
 }
 
-.contact-list { 
+.contact-list {
     padding-left: 0px;
-    
+
 }
 
-    
+
 /*---------------------------------footer*/
 
 .social-links {
-    color: #EA1201;
+    color: #FEF6EA;
     font-size: large;
     transition: all;
     transition-timing-function: ease-in-out;
@@ -282,12 +291,12 @@ li {
 @media (max-width:1024px) {
     .works-done {
         padding-bottom: 100px;
-        
+
     }
-    
-    .contact-details-style { 
+
+    .contact-details-style {
         margin-left: 15px;
         margin-right: 15px;
-        
+
     }
 }

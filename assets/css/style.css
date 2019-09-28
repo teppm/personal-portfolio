@@ -5,8 +5,10 @@ html {
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
     overflow-y: auto;
-    background-position: center;
+
 
 
 }
@@ -38,7 +40,7 @@ body {
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #960A03;
+    color: #E8FF00;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link {
@@ -49,10 +51,13 @@ body {
 }
 
 .navbar-dark>.navbar-brand {
-    background-color: #00002B;
+    background-color: #000000;
     margin-right: 50px;
     padding-right: 50px;
-    color: #1319EB;
+    padding-left: 50px;
+    color: #E8FF00;
+    font-family: "Caveat", cursive;
+    
 }
 
 .nav-link {
@@ -66,6 +71,10 @@ body {
 .index-text-style {
     color: #FEF6EA;
     text-align: center;
+    background-color: #91918E;
+    opacity: 0.8;
+    border: 15px solid #7D7D7A;
+    margin: 0px 15px 0px 15px;
 }
 
 
@@ -211,7 +220,7 @@ h4 {
 
 .download-resume:hover {
     text-decoration: none;
-    color: #960A03;
+    color: #E8FF00;
 }
 
 .contact-list {
@@ -233,7 +242,7 @@ h4 {
 }
 
 .social-links:hover {
-    color: #960A03;
+    color: #E8FF00;
     text-decoration: none;
 
 

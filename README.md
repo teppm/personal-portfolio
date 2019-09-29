@@ -1,12 +1,12 @@
 Madis Tepp Portfolio 
 
-
+----------------------------------------------------------------------------------------------------------------
 
 This is my portfolio page created for Milestone 1 project in Code Institute. Purpose of the page is to be able to sell my services, show of my works, skills and history
 so that it would lead to potential co-operation people looking for web development, need a site to be created or job offers from companies.
 
 
-
+----------------------------------------------------------------------------------------------------------------
 
 UX:
 
@@ -28,7 +28,7 @@ https://github.com/teppm/personal-portfolio/tree/master/wireframes
 The design changed somewhat as i progressed and understood what works well and what does not. 
 
 
-
+----------------------------------------------------------------------------------------------------------------
 
 Existing features:
 
@@ -51,7 +51,7 @@ Price quote possibility to be added in the future.
 
 
 
-
+----------------------------------------------------------------------------------------------------------------
 
 
 Technologies Used:
@@ -67,7 +67,7 @@ Technologies Used:
 
 5.Google fonts used font styling.
 
-
+----------------------------------------------------------------------------------------------------------------
 
 
 
@@ -92,7 +92,7 @@ User testing and feedback done also with Code Institute slack channel where a nu
 
 
 
-
+----------------------------------------------------------------------------------------------------------------
 
 
 
@@ -116,7 +116,7 @@ If you would like to deploy the site yourself, you can use the source code from 
 
 Currently deployed site will be update if any changes will be made.
 
-
+----------------------------------------------------------------------------------------------------------------
 
 Credits
 

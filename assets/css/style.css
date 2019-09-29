@@ -213,11 +213,17 @@ h6 {
     background-color: black;
 }
 
+.btn:visited {
+    color: #960A03;
+    color: #E8FF00;
+}
+
 .contact-details {
     background-color: white;
     margin-top: 25px;
     margin-bottom: 35px;
     text-align: center;
+    border-radius: 3px;
 }
 
 .download-resume {
@@ -238,6 +244,7 @@ h6 {
     padding-left: 0px;
 
 }
+
 
 
 
@@ -318,6 +325,7 @@ li {
     .contact-details-style {
         margin-left: 15px;
         margin-right: 15px;
+        flex: 0px;
 
     }
     
@@ -325,3 +333,4 @@ li {
         width: 90%;
     }
 }
+

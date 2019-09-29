@@ -102,6 +102,9 @@ Deployment
 
 
 This site has been deployed using  Github, i have deployed the site from master branch.
+
+To review site use link : https://teppm.github.io/personal-portfolio/ 
+
 Steps to deploy site: 
 
 1. Accessed my sites repository on GitHub 

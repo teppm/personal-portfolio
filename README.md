@@ -52,9 +52,11 @@ Price quote possibility to be added in the future.
 
 Technologies Used:
 
-1.CSS - Used to style HTML elements, to make the page visually appealing and stand out.
-2.HTML - HTML used to create paget structure and content.
-3.Bootstrap - used to simplify work and to be able to work smarter and save time by using pre created bootstrap solutions. 
+1.CSS - Used to style HTML elements, to make the page visually appealing and stand out. 
+
+2.HTML - HTML used to create paget structure and content. 
+
+3.Bootstrap - used to simplify work and to be able to work smarter and save time by using pre created bootstrap solutions.
 
 
 

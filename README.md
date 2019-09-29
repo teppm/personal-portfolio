@@ -89,7 +89,7 @@ Navbar links verified to work properly across browsers and devices.
 
 User testing and feedback done also with Code Institute slack channel where a number of different develope students have been able to see and use my website + verify code.
 
-
+Tested all pages on https://www.toptal.com/designers/colorfilter/ to ensure that pages work for color blind people
 
 
 ----------------------------------------------------------------------------------------------------------------

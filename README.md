@@ -87,6 +87,8 @@ Links to social sites, link to download CV adn works done functioning as designe
 
 Navbar links verified to work properly across browsers and devices. 
 
+User testing and feedback done also with Code Institute slack channel where a number of different develope students have been able to see and use my website + verify code.
+
 
 
 

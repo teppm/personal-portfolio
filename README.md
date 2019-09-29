@@ -3,10 +3,19 @@ Font Awesome
 HTML / CSS 
 Inspiration: design inspiration
 pic credit unsplash fabian-grohs 
+
+
 Madis Tepp Portfolio 
 
-This is my portfolio page created for Milestone 1 project in Code Institute. Purpose of the page is to be able to sell my services, show of my works, skills and history so that it would lead to potential co-operation people looking for web development, need a site to be created or job offers from companies.
-When designing this page it was important for me to keep it easy to use and use a black-grey-white color scheme through out the project. 
+This is my portfolio page created for Milestone 1 project in Code Institute. Purpose of the page is to be able to sell my services, show of my works, skills and history
+so that it would lead to potential co-operation people looking for web development, need a site to be created or job offers from companies.
+
+
+UX:
+
+When designing this page it was important for me to keep it easy to use and use a black-grey-white color scheme through out the project for modern look.
+I aimed provide as much relevant information as possible about myself, like links to my social pages, as well as form to contact me, download resume possibility and contact details in order for people to get a full overview of me.
+
 Some user stories that i was aiming to solve were: 
 
 1. As a owner of the site i want to be be able to show off my works, provide people with my contacts and history about me.
@@ -16,36 +25,41 @@ Some user stories that i was aiming to solve were:
 3. As a user of this site i want to be able to see previous projects and be able to take contact with the site owner.
    So that i can get in contact with this person for co-operation.
 
+Initial wireframes can be found here: 
+https://github.com/teppm/personal-portfolio/tree/master/wireframes
+
+The design changed somewhat as i progressed and understood what works well and what does not. 
+
+Existing features:
+
+Iframe on home page: 
+Idea was to add a video to show off the design thinking that is used when working on projects. 
+
+Form on contact page: 
+Allows user to be able to contact me for potential project co-operation. This was created by using Bootstrap and then modified to match the style of other pages.
+
+Navbar: 
+
+Used bootstrap to create a responsive navbar. 
 
 
-Essentially, this part is your sales pitch.
+Features left to be implemented: 
 
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Iframe video to be changed to a self created video to show of more about myself and way of working.
+Works done section will be updated to contain own works once more jobs will be done. 
+Price quote possibility to be added in the future.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+Technologies Used:
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+1.CSS - Used to style HTML elements, to make the page visually appealing and stand out.
+2.HTML - HTML used to create paget structure and content.
+3.Bootstrap - used to simplify work and to be able to work smarter and save time by using pre created bootstrap solutions. 
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Testing: 
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.

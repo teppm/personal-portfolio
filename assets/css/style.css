@@ -209,14 +209,10 @@ h6 {
 }
 
 .btn:hover {
-    color: #960A03;
+    color: #E8FF00;
     background-color: black;
 }
 
-.btn:visited {
-    color: #960A03;
-    color: #E8FF00;
-}
 
 .contact-details {
     background-color: white;
@@ -230,7 +226,10 @@ h6 {
     color: #FEF6EA;
     font-size: larger;
     background-color: black;
-    width: 100%;
+    width: 30%;
+    border-radius: 3px;
+    text-align: center;
+    padding: 5px;
 
 
 }
@@ -239,6 +238,8 @@ h6 {
     text-decoration: none;
     color: #E8FF00;
 }
+
+
 
 .contact-list {
     padding-left: 0px;

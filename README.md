@@ -7,8 +7,12 @@ pic credit unsplash fabian-grohs
 
 Madis Tepp Portfolio 
 
+
+
 This is my portfolio page created for Milestone 1 project in Code Institute. Purpose of the page is to be able to sell my services, show of my works, skills and history
 so that it would lead to potential co-operation people looking for web development, need a site to be created or job offers from companies.
+
+
 
 
 UX:
@@ -30,6 +34,9 @@ https://github.com/teppm/personal-portfolio/tree/master/wireframes
 
 The design changed somewhat as i progressed and understood what works well and what does not. 
 
+
+
+
 Existing features:
 
 Iframe on home page: 
@@ -50,6 +57,10 @@ Works done section will be updated to contain own works once more jobs will be d
 Price quote possibility to be added in the future.
 
 
+
+
+
+
 Technologies Used:
 
 1.CSS - Used to style HTML elements, to make the page visually appealing and stand out. 
@@ -57,6 +68,14 @@ Technologies Used:
 2.HTML - HTML used to create paget structure and content. 
 
 3.Bootstrap - used to simplify work and to be able to work smarter and save time by using pre created bootstrap solutions.
+
+4.Fontawesome - used for icons.
+
+5.Google fonts used font styling.
+
+
+
+
 
 
 
@@ -80,19 +99,59 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+This site has been deployed using  Github, i have deployed the site from master branch.
+Steps to deploy site: 
+
+1. Accessed my sites repository on GitHub 
+
+2. From settings chose to deploy master branch
+
+
+After these two steps the site was deployed. 
+
+
+If you would like to deploy the site yourself, you can use the source code from https://github.com/teppm/personal-portfolio, you will need to use git clone.
+
+Currently deployed site will be update if any changes will be made.
+
+
 
 Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
+
+
+
+Content: 
+
+Content created myself. 
+
+
+
+Media: 
+
+Video credit to: 
+
+
+Video used in index.html (Landing page) provided by IBM Think Academy and take from youtube. 
+
+
+
+Background picture credit to: 
+
+Unsplash.com , photographer Ray Christian Wicaksono.
+
+
+
+Other Credit:
+
+Websites used on Portfolio page as my websites done , credit to https://www.awwwards.com/
+
+
+
+
 Acknowledgements
-I received inspiration for this project from X
+
+Inspiration for this project received by reviewing numerous different award winning websites provided on https://www.awwwards.com/
+
+Inspiration on how to create README.md from Code Institutes example  work created by Haley Schafer.

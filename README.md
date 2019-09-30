@@ -21,6 +21,13 @@ Some user stories that i was aiming to solve were:
    So that i can understand if this person fits to the role i am looking for, and that i could provide info about this person onwards to my team for a potential job offer.
 3. As a user of this site i want to be able to see previous projects and be able to take contact with the site owner.
    So that i can get in contact with this person for co-operation.
+4. As an owner of the site i want the site to be perceived as professional. 
+   So that users get a feeling of wanting to cooperate with me.
+5. As a owner of the site i want the site to have modern design that shows of quality and UX design competence. 
+   So that users get a feeling of quality, great design and a premium product, that will make people want to work with me / offer me a job.
+
+
+
 
 Initial wireframes can be found here: 
 https://github.com/teppm/personal-portfolio/tree/master/wireframes
@@ -77,17 +84,17 @@ Testing:
 Deployed site was tested by using using the page on Firefox, Google Chrome, Explored and Microsoft Edge.
 In addition to that page was tested by using it on different devices such as Samsung Galaxy S10, Iphone XR , Samsung Galaxy A5.
 
-Code has been check on https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/ to make sure no errors in the code that would prevent functions.
+Code has been checked on https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/ to make sure no errors in the code that would prevent functions.
 
 User testing performed by having 4 people with to use the page on browser and device of choice. Users asked to give feedback and some change implemented based on feedback.
 
 Form functions have been verified i.e not possible to submit without filling in all required info, e-mail needs to be a valid email format. 
 
-Links to social sites, link to download CV adn works done functioning as designed with target="_blank" so they open in a new window.
+Links to social sites, link to download CV and works done functioning as designed with target="_blank" so they open in a new window.
 
 Navbar links verified to work properly across browsers and devices. 
 
-User testing and feedback done also with Code Institute slack channel where a number of different develope students have been able to see and use my website + verify code.
+User testing done on CI slack channel where code was made available and site was tested and reviewed by Code Institute full stack developer students.
 
 Tested all pages on https://www.toptal.com/designers/colorfilter/ to ensure that pages work for color blind people
 
@@ -115,7 +122,7 @@ Steps to deploy site:
 After these two steps the site was deployed. 
 
 
-If you would like to deploy the site yourself, you can use the source code from https://github.com/teppm/personal-portfolio, you will need to use git clone.
+If you would like to deploy the site yourself, you can use the source code from https://github.com/teppm/personal-portfolio, you can use git clone https://github.com/teppm/personal-portfolio.git.
 
 Currently deployed site will be update if any changes will be made.
 
@@ -148,7 +155,7 @@ Unsplash.com , photographer Ray Christian Wicaksono.
 
 Other Credit:
 
-Websites used on Portfolio page as my websites done , credit to https://www.awwwards.com/
+Websites used on Portfolio page, as websites  created by me, credit to https://www.awwwards.com/
 
 
 
@@ -158,3 +165,11 @@ Acknowledgements
 Inspiration for this project received by reviewing numerous different award winning websites provided on https://www.awwwards.com/
 
 Inspiration on how to create README.md from Code Institutes example  work created by Haley Schafer.
+
+Bootstrap has been used extensively to create the elements that i had in mind during design phase. Bootstrap elements have though been extensively modified and styled.
+
+https://www.w3schools.com/ has been a great help in solving some of the problems i ran into during coding. 
+
+https://stackoverflow.com/ used to help with problem solving. 
+
+Code Institute Slack channel and channel leads were of great support during coding phase.

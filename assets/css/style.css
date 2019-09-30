@@ -71,7 +71,7 @@ body {
 /*----------------------------------index.html page content*/
 
 .index-text-style {
-    color: #FEF6EA;
+    color: #E8FF00;
     text-align: center;
     background-color: #91918E;
     opacity: 0.8;
@@ -100,7 +100,7 @@ body {
     padding-top: 25px;
     opacity: 0.8;
     margin: 0px 15px 0px 15px;
-    color: #FEF6EA;
+    color: #E8FF00;
 
 
 
@@ -133,7 +133,7 @@ body {
     margin: 0px;
     font-size: small;
     text-align: left;
-    color: #FEF6EA;
+    color: #E8FF00;
 
 }
 
@@ -170,7 +170,7 @@ h6 {
 .portfolio-p {
     margin-top: 15px;
     text-align: center;
-    color: #FEF6EA;
+    color: #E8FF00;
 
 }
 
@@ -182,7 +182,7 @@ h6 {
 
 .portfolio-heading {
     margin-bottom: 50px;
-    color: #FEF6EA;
+    color: #E8FF00;
     text-align: center;
 }
 
@@ -201,7 +201,7 @@ h6 {
     text-align: center;
     font-weight: bold;
     opacity: 0.8;
-    color: #FEF6EA;
+    color: #E8FF00;
 }
 
 

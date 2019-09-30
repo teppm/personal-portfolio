@@ -41,6 +41,7 @@ body {
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #E8FF00;
+    font-weight: bold;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link {

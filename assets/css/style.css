@@ -72,7 +72,7 @@ body {
 /*----------------------------------index.html page content*/
 
 .index-text-style {
-    color: #E8FF00;
+    color: #FEF6EA;
     text-align: center;
     background-color: #91918E;
     opacity: 0.8;
@@ -101,7 +101,7 @@ body {
     padding-top: 25px;
     opacity: 0.8;
     margin: 0px 15px 0px 15px;
-    color: #E8FF00;
+    color: #FEF6EA;
 
 
 
@@ -134,12 +134,12 @@ body {
     margin: 0px;
     font-size: small;
     text-align: left;
-    color: #E8FF00;
+    color: #FEF6EA;
 
 }
 
 .progress {
-    background-color: #E8FF00;
+    background-color: #FEF6EA;
 }
 
 .progress-bar {
@@ -171,7 +171,7 @@ h6 {
 .portfolio-p {
     margin-top: 15px;
     text-align: center;
-    color: #E8FF00;
+    color: #FEF6EA;
 
 }
 
@@ -183,7 +183,7 @@ h6 {
 
 .portfolio-heading {
     margin-bottom: 50px;
-    color: #E8FF00;
+    color: #FEF6EA;
     text-align: center;
 }
 
@@ -202,14 +202,14 @@ h6 {
     text-align: center;
     font-weight: bold;
     opacity: 0.8;
-    color: #E8FF00;
+    color: #FEF6EA;
 }
 
 
 .btn {
     background-color: black;
     border: 15px black;
-    color: #E8FF00;
+    color: #FEF6EA;
     margin: 10px;
 }
 
@@ -231,7 +231,7 @@ h6 {
 }
 
 .download-resume {
-    color: #E8FF00;
+    color: #FEF6EA;
     font-size: larger;
     background-color: black;
     width: 30%;

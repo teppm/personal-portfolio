@@ -32,6 +32,8 @@ Some user stories that i was aiming to solve were:
 Initial wireframes can be found here: 
 https://github.com/teppm/personal-portfolio/tree/master/wireframes
 
+[alt tag](about-me.jpg)
+
 The design changed somewhat as i progressed and understood what works well and what does not. 
 
 

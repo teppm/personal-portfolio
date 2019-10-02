@@ -8,7 +8,7 @@ so that it would lead to potential co-operation people looking for web developme
 
 ----------------------------------------------------------------------------------------------------------------
 
-UX:
+## UX: ## 
 
 When designing this page it was important for me to keep it easy to use and use a black-grey-white color scheme through out the project for modern look.
 I aimed provide as much relevant information as possible about myself, like links to my social pages, as well as form to contact me, download resume possibility and contact details in order for people to get a full overview of me.
@@ -37,7 +37,7 @@ The design changed somewhat as i progressed and understood what works well and w
 
 ----------------------------------------------------------------------------------------------------------------
 
-Existing features:
+## Existing features: ## 
 
 Iframe on home page: 
 Idea was to add a video to show off the design thinking that is used when working on projects. 
@@ -50,7 +50,7 @@ Navbar:
 Used bootstrap to create a responsive navbar. 
 
 
-Features left to be implemented: 
+### Features left to be implemented: ###
 
 Iframe video to be changed to a self created video to show of more about myself and way of working.
 Works done section will be updated to contain own works once more jobs will be done. 
@@ -61,7 +61,7 @@ Price quote possibility to be added in the future.
 ----------------------------------------------------------------------------------------------------------------
 
 
-Technologies Used:
+## Technologies Used: ## 
 
 1.CSS - Used to style HTML elements, to make the page visually appealing and stand out. 
 
@@ -78,7 +78,7 @@ Technologies Used:
 
 
 
-Testing: 
+## Testing: ##  
 
 
 Deployed site was tested by using using the page on Firefox, Google Chrome, Explored and Microsoft Edge.
@@ -105,7 +105,7 @@ Tested all pages on https://www.toptal.com/designers/colorfilter/ to ensure that
 
 
 
-Deployment
+## Deployment ## 
 
 
 This site has been deployed using  Github, i have deployed the site from master branch.
@@ -128,39 +128,39 @@ Currently deployed site will be update if any changes will be made.
 
 ----------------------------------------------------------------------------------------------------------------
 
-Credits
+## Credits ## 
 
 
 
-Content: 
+### Content: ###
 
 Content created myself. 
 
 
 
-Media: 
+### Media: ###  
 
-Video credit to: 
+#### Video credit to: #### 
 
 
 Video used in index.html (Landing page) provided by IBM Think Academy and take from youtube. 
 
 
 
-Background picture credit to: 
+#### Background picture credit to: #### 
 
 Unsplash.com , photographer Ray Christian Wicaksono.
 
 
 
-Other Credit:
+#### Other Credit: #### 
 
 Websites used on Portfolio page, as websites  created by me, credit to https://www.awwwards.com/
 
 
 
 
-Acknowledgements
+## Acknowledgements: ##
 
 Inspiration for this project received by reviewing numerous different award winning websites provided on https://www.awwwards.com/
 

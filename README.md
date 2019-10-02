@@ -29,12 +29,14 @@ Some user stories that i was aiming to solve were:
 
 
 
-Initial wireframes can be found here: 
-https://github.com/teppm/personal-portfolio/tree/master/wireframes
-
+Wireframes: 
+![about-me page wireframe](https://github.com/teppm/personal-portfolio/blob/master/wireframes/home.jpg)
 ![about-me page wireframe](https://github.com/teppm/personal-portfolio/blob/master/wireframes/about-me.jpg)
+![about-me page wireframe](https://github.com/teppm/personal-portfolio/blob/master/wireframes/portfolio.jpg)
+![about-me page wireframe](https://github.com/teppm/personal-portfolio/blob/master/wireframes/contacts.jpg)
 
-The design changed somewhat as i progressed and understood what works well and what does not. 
+
+The design has changed somewhat as i progressed and understood what works well and what does not. 
 
 
 ----------------------------------------------------------------------------------------------------------------

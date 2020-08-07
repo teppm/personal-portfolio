@@ -4,6 +4,7 @@
 
 This is my portfolio page created for Milestone 1 project in Code Institute. Purpose of the page is to be able to sell my services, show of my works, skills and history
 so that it would lead to potential co-operation people looking for web development, need a site to be created or job offers from companies.
+(Educational purpose page, content is not updated with any real life data, info)
 
 
 ----------------------------------------------------------------------------------------------------------------
